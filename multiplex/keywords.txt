@@ -1,0 +1,5 @@
+Multiplex	KEYWORD1
+setupMux	KEYWORD2
+readFromMux	KEYWORD2
+readAllChannels	KEYWORD2
+createCSV	KEYWORD2	
